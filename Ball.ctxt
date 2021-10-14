@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ move()
+comment2.text=\r\n\ Tells\ the\ ball\ how\ fast\ to\ move\r\n
+comment3.params=
+comment3.target=void\ checkForBounce()
+comment3.text=\r\n\ Tells\ the\ ball\ that\ if\ it\ is\ touching\ the\ paddle\ it\ needs\ to\ "bounce"\r\n\ by\ switching\ its\ X\ to\ the\ opposite\ sign\r\n
+comment4.params=
+comment4.target=void\ checkForCollision()
+comment4.text=\r\n\ tells\ the\ ball\ if\ it\ hits\ a\ specific\ part\ of\ the\ paddle\ to\ speed\ up\r\n\ to\ avoid\ sticky\ paddles\r\n
+comment5.params=
+comment5.target=void\ checkForScore1()
+comment5.text=\r\n\ used\ to\ set\ which\ side\ player\ one\ scores\ on\r\n
+comment6.params=
+comment6.target=void\ checkForScore2()
+comment6.text=\r\n\ used\ to\ set\ which\ side\ player\ one\ scores\ on\r\n
+numComments=7

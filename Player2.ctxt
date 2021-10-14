@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Player2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player2\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Player2()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Player2\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ Player2()
+comment2.text=\r\n\ Setting\ the\ image\ of\ the\ counter\r\n
+comment3.params=
+comment3.target=void\ addScore()
+comment3.text=\r\n\ used\ to\ add\ score\ and\ check\ for\ a\ win.\r\n
+comment4.params=
+comment4.target=void\ checkForWin()
+comment4.text=\r\n\ When\ the\ score\ hits\ 8\ the\ program\ stops\ running\r\n
+numComments=5
